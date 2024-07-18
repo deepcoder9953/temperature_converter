@@ -1,0 +1,11 @@
+var celcious = 0;
+// function temp(celcious){
+//     return (celcious*9/5)+32
+// }
+// console.log(temp(32),"fehrenheit");
+// console.log(temp(12),"fehrenheit");
+// console.log(temp(22),"fehrenheit");
+// console.log(temp(52),"fehrenheit");
+// console.log(temp(32),"fehrenheit");
+// console.log(temp(4232),"fehrenheit");
+// console.log(temp(53442),"fehrenheit");
